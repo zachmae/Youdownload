@@ -18,5 +18,6 @@ FUNCTIONNALITIES
 - Download video or just audio
 - Custom the quality of the video you want
 - Select the location in which you want the video to be located in
+- No pubs
 
 This is a personnal project, made in 2 days, hope you'll enjoy it
